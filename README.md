@@ -23,7 +23,7 @@ An end-to-end analytics platform built using **Python** and **Streamlit** that e
 
 **🌐 Live Demo:** https://insightx-dashboard.streamlit.app
 
-**📂 Repository:** https://github.com/Rashmitha925/InsightX
+**📂 Repository:** [InsightX on GitHub](https://github.com/Rashmitha925/InsightX)
 ---
 
 ## 🛠 Tech Stack
